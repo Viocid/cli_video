@@ -47,9 +47,7 @@ title   | ctr   | retention_rate
 Video B | 22.00 | 25.00
 Video A | 17.50 | 35.00
 ```
-
-(image.png)
-
+![Пример вывода таблицы](image.png)
 ## Установка зависимостей для тестов
 
 ```bash
